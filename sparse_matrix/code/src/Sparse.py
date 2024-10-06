@@ -93,8 +93,8 @@ class SparseMatrix:
 # Example usage:
 if __name__ == "__main__":
     
-    matrix1 = SparseMatrix("easy_sample_02_2.txt")
-    matrix2 = SparseMatrix("easy_sample_02_1.txt")
+    matrix1 = SparseMatrix("../../sample_inputs/easy_sample_02_2.txt")
+    matrix2 = SparseMatrix("../../sample_inputs/easy_sample_02_1.txt")
 
     operation = input("Select operation: add, subtract, multiply: ")
 
